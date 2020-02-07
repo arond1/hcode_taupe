@@ -1,3 +1,3 @@
 import parser
 
-parser()
+parser.parser()
