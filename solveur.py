@@ -5,5 +5,4 @@ def solveur(slice, types, values):
         if(total + values[i] <= slice):
             res.append(i)
             total += values[i]
-    print(res)
-    print(total)
+    return [total, res]
