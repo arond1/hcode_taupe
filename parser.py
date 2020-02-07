@@ -1,4 +1,4 @@
-import solveur.py
+import solveur
 def parser():
     slice = 17
     types = 4
