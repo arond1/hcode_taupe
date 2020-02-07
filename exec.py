@@ -1,3 +1,3 @@
-import parser.py
+import parser
 
 parser()
